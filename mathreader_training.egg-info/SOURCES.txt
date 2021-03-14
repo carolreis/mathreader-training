@@ -1,0 +1,7 @@
+README.md
+setup.py
+helpers/__init__.py
+mathreader_training.egg-info/PKG-INFO
+mathreader_training.egg-info/SOURCES.txt
+mathreader_training.egg-info/dependency_links.txt
+mathreader_training.egg-info/top_level.txt

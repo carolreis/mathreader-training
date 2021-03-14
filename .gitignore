@@ -1,0 +1,8 @@
+*.gz
+*.npz
+.lpenv
+bin/
+lib/
+share/
+include/
+*.pyc

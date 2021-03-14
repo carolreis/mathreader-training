@@ -1,0 +1,13 @@
+h5py
+idx2numpy
+imageio
+imutils
+matplotlib
+numpy
+opencv-contrib-python>4.1.1.26
+Pillow
+tensorflow>2.1.0
+tensorflow-gpu>2.1.0
+bison
+ply
+SciPy
