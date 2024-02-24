@@ -17,7 +17,7 @@ treatment_dir = 'treatment/'
 treated_dir = 'treated_data/'
 
 if not os.path.exists(treatment_dir + treated_dir):
-    os.mkdir(treatment_dir + treated_dir
+    os.mkdir(treatment_dir + treated_dir)
 
 main_dir = 'treatment/datasets/handwrittenmathsymbols_all/'
 
